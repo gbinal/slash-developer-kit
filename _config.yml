@@ -1,0 +1,11 @@
+#document settings
+title: Document Title Here
+description: Document Description
+url: http://path-to-the-github-pages-version
+repo_url: http://github.com/path-to-the-github-repo
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
