@@ -3,6 +3,8 @@ permalink: /index.html
 layout: home
 ---
 
+_Part of a series of API resources at [Howto.gov/API](http://www.howto.gov/api)_.
+
 ##Homepage 
 The API efforts of any agency should all be accessible via one easy to reach developers hub.  This web page should provide a path to all public APIs and any associated resources.  Once an agency has begun to publish multiple APIs, certain resources may make sense to be specific to each API whereas others may make sense to be provided more generally for all of the agency's APIs.  The major elements of the overall developer homepage are: a catalog of and links to available APIs, any communal elements that apply to all of the APIs, and links to non-API resources that may also be of use to developers.  Agency.gov/developer, agency.gov/developers, and agency.gov/api should either be the direct url for the page or should redirect to the page.  
 
