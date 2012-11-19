@@ -130,7 +130,7 @@ Providing a public user forum can complement other tools to provide a well-round
 Wikis provide a scalable and robust platform for your developers and site visitors.  By providing a wiki and using it yourself to publish and collaborate on material, you deepen the potential of your developer community and encourage adoption.  In addition to numerous free and opensource solutions for wikis, two no-hassle options include the wiki functionality built into GitHub repositories as well as wiki.data.gov (publicly visible, but editable by anyone with a .gov email address).  By creating a GitHub repo specifically for developer hub functionality (such as [Issue Tracking and Roadmaps](https://github.com/gbinal/api-release-kit/blob/master/README.md#issue-tracker)), you can also employ the built-in wiki functionality to offer a platform already integrated and readily available through the very popular social network for developers.  
 
 **Potential Tools:**
-[Github](https://github.com/blog/774-git-powered-wikis-improved)
+[Github Wikis](https://github.com/blog/774-git-powered-wikis-improved)
 
 ##FAQ
 Any common questions that developers ask may reflect confusion held by other potential users that turned away. Maintaining a simple list of frequently asked questions and answers provides a simple utility today as well as a good catch-all for future disclaimers and loose information that may come to mind in the future.  Depending on your needs, this section might work better at the developer hub level or on an individual basis for single APIs.  
