@@ -158,7 +158,7 @@ Much of the value of government data exists when it is integrated with other gov
 In order to highlight other opensource development in government, you can also link to the growing list of [repositories from all .gov GitHub accounts](gsa.github.com/federal-open-source-repos/).  
 
 **.Gov Examples:**
-* [Department of Labor](http://developer.dol.gov)
+[Department of Labor](http://developer.dol.gov)
 
 ##Link to Basic API Information
 Depending on the audience for your developer section, it is often useful to include links to basic reading material that explains what APIs are and gives access to educational resources that fit those who may just be getting started with APIs.  
