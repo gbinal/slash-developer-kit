@@ -16,6 +16,11 @@ A brief welcome message can be used to provide context for the agency's mission 
 ##Catalog of APIs
 The most important element of a developer hub is access to each of the APIs.  Usually, this takes the form of links along with a brief description.  Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency's web presence.  Alternatively, several free and open source options exist that provide additional catalog functionality.
 
+**Potential Tools:**
+* [APIGrove](http://apigrove.github.com/apigrove/)
+* [Google APIs Explorer](http://code.google.com/p/google-apis-explorer/)
+* [WSO2 API Manager](http://wso2.com/products/api-manager/)
+
 ##Terms of Service
 A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  
 
@@ -34,7 +39,8 @@ This is a particularly good area to review the Terms of Service of other governm
 ##Status Dashboard
 As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important.  The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade).  The dashboard can be manually maintained, with upcoming or current system updates written out.  A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API's status on the dashboard.  This has the benefit of ensuring quick updates for developers, whose applications may rely on this news.  Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.  
 
-
+**Potential Tools:** 
+[Stashboard](http://www.stashboard.org/)
 
 ##Apps Gallery
 As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them.  Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs.  
@@ -92,7 +98,14 @@ In order to deepen both interest and trust in your agency's API efforts, your ag
 Having a set of front-facing feedback mechanisms promotes an open and productive relationship between public developers and the agency.  When used to supplement other feedback mechanisms, this approach encourages greater public interest,
 promotes a better agency response, and fosters ideation among the public.  Two important questions that warrant individual prompts include feedback on existing APIs and requests for new APIs.  This ensures that you have clear direction from those who use your APIs.  
 
-Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements) and provide robust ideation platforms for public feedback.  For a lighter weight implementation, you can use the similarly gov-friendly Disqus commenting platform to embed commenting functionality within a page that you host expressly for this purpose.  For an even simpler setup, you can author a series of 'open thread' blog posts that each encourage public feedback to a specific prompt and then link to those posts from the developer hub as a means of driving public feedback.  
+Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements) and provide robust ideation platforms for public feedback.  For a lighter weight implementation, you can use the similarly gov-friendly Disqus commenting platform to embed commenting functionality within a page that you host expressly for this purpose.  For an even simpler setup, you can author a series of 'open thread' blog posts that each encourage public feedback to a specific prompt and then link to those posts from the developer hub as a means of driving public feedback.  One other option would be to use the popular developer Q&A hub, Stack Exchange, ask the prompts and receive feedback.  
+
+**Potential Tools:**
+* [Uservoice](http://www.uservoice.com/)
+* [Ideascale](http://www.ideascale.com)
+* [Dialogue App](http://www.dialogue-app.com)
+* [Disqus](http://www.disqus.com)
+* [StackExchange](http://www.stackexchange.com)
 
 **.Gov Examples:**
 * [Census Bureau](http://apiforum.ideascale.com/)
@@ -115,6 +128,9 @@ Providing a public user forum can complement other tools to provide a well-round
 
 ##Wiki
 Wikis provide a scalable and robust platform for your developers and site visitors.  By providing a wiki and using it yourself to publish and collaborate on material, you deepen the potential of your developer community and encourage adoption.  In addition to numerous free and opensource solutions for wikis, two no-hassle options include the wiki functionality built into GitHub repositories as well as wiki.data.gov (publicly visible, but editable by anyone with a .gov email address).  By creating a GitHub repo specifically for developer hub functionality (such as [Issue Tracking and Roadmaps](https://github.com/gbinal/api-release-kit/blob/master/README.md#issue-tracker)), you can also employ the built-in wiki functionality to offer a platform already integrated and readily available through the very popular social network for developers.  
+
+**Potential Tools:**
+[Github](https://github.com/blog/774-git-powered-wikis-improved)
 
 ##FAQ
 Any common questions that developers ask may reflect confusion held by other potential users that turned away. Maintaining a simple list of frequently asked questions and answers provides a simple utility today as well as a good catch-all for future disclaimers and loose information that may come to mind in the future.  Depending on your needs, this section might work better at the developer hub level or on an individual basis for single APIs.  
