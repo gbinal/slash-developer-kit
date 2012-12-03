@@ -99,6 +99,13 @@ Each agency's web presence offers different material that may be of interest to 
 #Blog/Microblog
 In order to deepen both interest and trust in your agency's API efforts, your agency's developer outreach should include program updates such as announcments of new initiatives and program updates such as planned downtime.  Depending on how much information the agency is generating, it may be better to create a category on the agency blog that distinguishes these posts or an entire independent agency blog to house the material.  Regardless, it is best to link directly to the cateogry or blog from the developer hub.  Similarly, your team may prefer to set up a standalone twitter account for the API and developer announcements, either as a complement to a blog (category)or in lieu of it.  An important aspect to each of these models, though, is the ability of developers to subscribe or otherwise follow a reliable channel for news that impacts their development efforts.  
 
+**Potential Tools:** 
+* Existing Agency Blog
+* [Blogger](http://www.blogger.com)
+* [Tumblr](http://www.tumblr.com)
+* [Twitter](http://www.twitter.com)
+* [Wordpress](http://www.wordpress.com)
+
 **.Gov Examples:**
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
 * [Federal Communications Commission](http://www.fcc.gov/developers)
@@ -127,6 +134,11 @@ Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of se
 ##Developer Mailing List/Group
 By offering visitors the ability to subscribe to emails about your developer outreach, you can build an email list that supports a quick and convenient means of publicizing new projects and API updates.  This functionality can be easily assembled in the same fashion as any other email collection webform.  Alternatively, you could create an email group or listserve either using inhouse resources or third party solutions such as Google Groups or Yahoo Groups.  An advantage of this model is that it allows developers to more readily interact with each other.  
 
+**Potential Tools:**
+* Existing Agency Listserve Resources
+* [Google Groups](http://groups.google.com)
+* [Yahoo Groups](http://groups.yahoo.com)
+
 **.Gov Examples:**
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
 * [Environmental Protection Agency](http://www.epa.gov/developer/)
@@ -136,6 +148,9 @@ By offering visitors the ability to subscribe to emails about your developer out
 ##Forum
 Providing a public user forum can complement other tools to provide a well-rounded collaboration and feedback environment for developers.   
 
+**Potential Tools:**
+* [BBPress](http://bbpress.org/)
+* [phpBB Forums](http://www.phpbb.com/)
 
 ##Wiki
 Wikis provide a scalable and robust platform for your developers and site visitors.  By providing a wiki and using it yourself to publish and collaborate on material, you deepen the potential of your developer community and encourage adoption.  In addition to numerous free and opensource solutions for wikis, two no-hassle options include the wiki functionality built into GitHub repositories as well as wiki.data.gov (publicly visible, but editable by anyone with a .gov email address).  By creating a GitHub repo specifically for developer hub functionality (such as [Issue Tracking and Roadmaps](https://github.com/gbinal/api-release-kit/blob/master/README.md#issue-tracker)), you can also employ the built-in wiki functionality to offer a platform already integrated and readily available through the very popular social network for developers.  
