@@ -28,9 +28,9 @@ The most important element of a developer hub is access to each of the APIs.  Us
 * [Federal Communications Commission](http://www.fcc.gov/developers)
 * [National Library of Medicine](http://www.nlm.nih.gov/api/)
 * [Natioanl Renewable Energy Laboratory](http://developer.nrel.gov/)
-* [Natioanl Renewable Energy Laboratory](http://developer.nrel.gov/)
-
-* [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
+* [Small Business Administration](http://www.sba.gov/api/)
+* [National Broadband Map](http://www.broadbandmap.gov/developer/)
+* [USA.gov](http://www.usa.gov/developer)
 
 ##Terms of Service
 A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  
