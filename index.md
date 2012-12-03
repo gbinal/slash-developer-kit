@@ -23,6 +23,15 @@ The most important element of a developer hub is access to each of the APIs.  Us
 * [Google APIs Explorer](http://code.google.com/p/google-apis-explorer/)
 * [WSO2 API Manager](http://wso2.com/products/api-manager/)
 
+**.Gov Examples:**
+* [Department of Labor](http://developer.dol.gov)
+* [Federal Communications Commission](http://www.fcc.gov/developers)
+* [National Library of Medicine](http://www.nlm.nih.gov/api/)
+* [Natioanl Renewable Energy Laboratory](http://developer.nrel.gov/)
+* [Natioanl Renewable Energy Laboratory](http://developer.nrel.gov/)
+
+* [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
+
 ##Terms of Service
 A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  
 
@@ -115,7 +124,7 @@ Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of se
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/doc/api/alt-fuel-stations/v1#comments)
 * [HealthData.gov](http://www.healthdata.gov/developer)
 
-##Developer mailing list/group
+##Developer Mailing List/Group
 By offering visitors the ability to subscribe to emails about your developer outreach, you can build an email list that supports a quick and convenient means of publicizing new projects and API updates.  This functionality can be easily assembled in the same fashion as any other email collection webform.  Alternatively, you could create an email group or listserve either using inhouse resources or third party solutions such as Google Groups or Yahoo Groups.  An advantage of this model is that it allows developers to more readily interact with each other.  
 
 **.Gov Examples:**
@@ -156,7 +165,7 @@ Much of the value of government data exists when it is integrated with other gov
 * [Federal Communications Commission](http://www.fcc.gov/developers)
 * [National Archives & Records Administration](http://www.archives.gov/developers/)
 
-##Link to all gov github accounts
+##Link to All Gov GitHub Accounts
 In order to highlight other opensource development in government, you can also link to the growing list of [repositories from all .gov GitHub accounts](gsa.github.com/federal-open-source-repos/).  
 
 **.Gov Examples:**
