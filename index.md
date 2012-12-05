@@ -171,7 +171,7 @@ Any common questions that developers ask may reflect confusion held by other pot
 
 
 ##Link to Other Agency Developer Hubs
-Much of the value of government data exists when it is integrated with other government data.  As more agencies launch developer hubs, it is useful for each to link to the others.  One possibility is to link to each of them individually ([embed code available here](github.com/gsa/slash-developer-pages)), or simply link to the GSA [repository](github.com/gsa/slash-developer-pages) that includes the up to date list.  New hubs are regularly added, thus creating more pages that link to your hub at an ever increasing rate.  
+Much of the value of government data exists when it is integrated with other government data.  As more agencies launch developer hubs, it is useful for each to link to the others.  One possibility is to link to each of them individually ([embed code available here](https://github.com/gsa/slash-developer-pages#readme)), or simply link to the GSA [repository](https://github.com/gsa/slash-developer-pages) that includes the up to date list.  New hubs are regularly added, thus creating more pages that link to your hub at an ever increasing rate.  
 
 **.Gov Examples:**
 * [Department of Energy](http://energy.gov/developer-resources)
@@ -181,7 +181,7 @@ Much of the value of government data exists when it is integrated with other gov
 * [National Archives & Records Administration](http://www.archives.gov/developers/)
 
 ##Link to All Gov GitHub Accounts
-In order to highlight other opensource development in government, you can also link to the growing list of [repositories from all .gov GitHub accounts](gsa.github.com/federal-open-source-repos/).  
+In order to highlight other opensource development in government, you can also link to the growing list of [repositories from all .gov GitHub accounts](https://gsa.github.com/federal-open-source-repos/).  
 
 **.Gov Examples:**
 [Department of Labor](http://developer.dol.gov)
